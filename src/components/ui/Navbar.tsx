@@ -11,7 +11,7 @@ export const Navbar = () => {
             width: '100%',
             flexDirection: 'row',
             alignItems: 'center',
-            justifyContent: 'space-between',
+            justifyContent: 'space-between', 
             padding: '0 20px',
             backgroundColor: theme?.colors.gray100.value
         }}>
